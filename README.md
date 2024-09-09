@@ -18,7 +18,7 @@ Clone or download this repository.
 
 Open index.html in any web browser.
 
-Fill in the required fields:
+**Fill in the required fields:**
 
 Gender: Male or Female
 
